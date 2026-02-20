@@ -1,0 +1,9 @@
+🚀 Prochaine étape (dis-moi ce que tu veux)
+
+On peut continuer avec :
+1️⃣ Connexion FastAPI ↔ PostgreSQL
+2️⃣ SQLAlchemy + modèles
+3️⃣ Routers (/users, /auth, /items)
+4️⃣ Auth JWT
+5️⃣ Docker
+6️⃣ Structure pro (clean architecture)

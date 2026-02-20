@@ -1,0 +1,30 @@
+# Environnement virtuel
+venv/
+.env
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers de logs
+*.log
+
+# IDE et éditeur
+.vscode/
+.idea/
+*.swp
+
+# Base de données locale (si utilisée pour tests)
+*.sqlite3
+*.db
+
+# Packages installés
+*.egg-info/
+dist/
+build/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
